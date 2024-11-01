@@ -12,3 +12,6 @@ https://allinonereborn.com/spice.m3u8?id=646
 
 #EXTINF:-1 tvg-id="glotv" tvg-chno="12" tvg-logo="http://4k.spicetv.cc/stalker_portal/misc/logos/320/" group-title="HINDI",GOLDMINES
 https://allinonereborn.com/spice.m3u8?id=9157
+
+#EXTINF:-1 tvg-id="glotv" tvg-chno="12" tvg-logo="http://4k.spicetv.cc/stalker_portal/misc/logos/320/" group-title="Punjabi Movies",Dil Chor
+https://huggingface.co/Pardeep0675/Bhagat/resolve/main/Chor%20Dil%202024%20V3%20Punjabi%20(Cleaned)%20www.SSRmovies.Com%201080p%20HQ%20HDTC%20x264.mkv
